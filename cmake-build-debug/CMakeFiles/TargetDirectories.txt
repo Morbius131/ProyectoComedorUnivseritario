@@ -1,0 +1,3 @@
+C:/Users/crism/OneDrive/Escritorio/Comedor_Universiario/cmake-build-debug/CMakeFiles/Comedor_Universiario.dir
+C:/Users/crism/OneDrive/Escritorio/Comedor_Universiario/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/crism/OneDrive/Escritorio/Comedor_Universiario/cmake-build-debug/CMakeFiles/rebuild_cache.dir
